@@ -17,3 +17,9 @@
 [submodule "src/rslidar_sdk"]
 	path = src/rslidar_sdk
 	url = https://github.com/self-navigation/rslidar_sdk.git
+[submodule "src/rslidar_msg"]
+	path = src/rslidar_msg
+	url = https://github.com/RoboSense-LiDAR/rslidar_msg.git
+[submodule "src/realsense-ros"]
+	path = src/realsense-ros
+	url = https://github.com/realsenseai/realsense-ros.git
